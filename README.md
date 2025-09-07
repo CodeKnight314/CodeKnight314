@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++, Go,**
 
-- 👨‍💻 All of my projects are available at [richardgtang.me](richardgtang.me)
+- 👨‍💻 All of my projects are available at [richardgtang.me](https://www.richardgtang.me)
 
 - 📫 How to reach me **richardgtang@gmail.com**
 
