@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richard Tang</h1>
 <h3 align="center">A undergraduate developer at Northeastern!</h3>
 
-- 🔭 I’m currently working on [Autonomous Maze Solvers with Reinforcement Learning](https://github.com/CodeKnight314/Autonomous-Agent-Maze-Solvers-)
+- 🔭 I’m currently working on Spatial Memory Design for VLLMs
 
 - 🌱 I’m currently learning **C++, Go,**
 
